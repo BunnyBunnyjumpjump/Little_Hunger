@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Little Hunger</string>
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="get_strt_btn">Get Start</string>
+    <string name="txt_view_1">Text View</string>
+    <string name="txt_view_2">Text View</string>
+    <string name="content_description">Intro Image</string>
+</resources>
